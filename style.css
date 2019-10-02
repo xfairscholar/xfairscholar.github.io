@@ -21,7 +21,7 @@ a {
 	
 }
 
-.menu1:hover{
+.menu1:hover, :active {
 	transform: matrix;
 	font-size: 20px;
 	font-style: oblique;
